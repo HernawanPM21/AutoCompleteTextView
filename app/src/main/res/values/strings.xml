@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string-array name="nama_kota">
+        <item>Semarang</item>
+        <item>Salatiga</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+    </string-array>
+</resources>
